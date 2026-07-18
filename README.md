@@ -1,4 +1,4 @@
-# ¡Hola! Soy dsaperez 👋
+# ¡Hola! Soy Santiago Perez 👋
 
 Estudiante de *Ingeniería de Sistemas* (3.er Semestre) en la *Universidad El Bosque* 🇨🇴. Me apasiona el desarrollo backend, la arquitectura de software limpia y el diseño de sistemas robustos y escalables.
 
